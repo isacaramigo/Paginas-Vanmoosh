@@ -1,6 +1,5 @@
 import { StyleSheet } from 'react-native';
 
-
 export const styles = StyleSheet.create({
     container: {
       flex: 1,
@@ -8,8 +7,15 @@ export const styles = StyleSheet.create({
       alignItems: 'center',
     },
 
+    voltar:{
+      marginTop: 60,
+      marginLeft: -190,
+      color: '#656565',
+      fontSize: 17,
+    },
+
     logo: {
-      marginTop: 40,
+      marginTop: -50,
       height: 110,
       width: 210,
     },
