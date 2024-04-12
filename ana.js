@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { View, Image, Text} from 'react-native';
-import { styles } from '../style/agregado.js';
+import { styles } from './style/agregado.js';
 
 export default function Ana() {
   return (
