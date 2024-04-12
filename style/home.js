@@ -20,4 +20,18 @@ export const styles = StyleSheet.create({
         width: 500,
         backgroundColor: '#D9D9D9',
       },
+      botao:{
+          color: '#969696',
+          fontSize: 25,
+          marginTop: 30,
+          alignItems: 'center',
+          marginLeft: -160
+      },
+      linha2 :{
+        height: 1,
+        width: 500,
+        backgroundColor: '#D9D9D9',
+        marginTop: 40
+      }
+
 });
