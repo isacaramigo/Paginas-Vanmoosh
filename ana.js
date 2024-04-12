@@ -5,6 +5,7 @@ import { styles } from './style/agregado.js';
 export default function Ana() {
   return (
     <View style={styles.container}>
+     <Pressable><Text style={styles.voltar}>voltar</Text></Pressable>
       <Image
         style={styles.logo}
         source={require('./assets/image/logoVanmooshFundoTransparente.png')}
