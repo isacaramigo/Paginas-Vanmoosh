@@ -56,7 +56,7 @@ export default function Joao() {
               style={styles.Juridico}
               source={require('./assets/image/Icone-juridico.png')}
             />
-        <Text style={styles.jurid}>Juríico</Text>
+        <Text style={styles.jurid}>Jurídico</Text>
       </Pressable>
     </View>
     
